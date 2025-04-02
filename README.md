@@ -53,11 +53,14 @@ https://github.com/user-attachments/assets/8c495dd9-5570-428d-afa9-7b819e32b666
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/research-paper-to-ppt.git
+   
 Install the required dependencies:
+ ```bash
 pip install -r requirements.txt
 
 Run the application:
-python app.py
+ ```bash
+streamlit run app.py
 
 Usage
 Upload a research paper in the supported format.
