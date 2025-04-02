@@ -1,6 +1,6 @@
-# 📄 Paper2PPT
+# Slide-ify-Your-Study
 
-## 🛠️ Overview
+## Overview
 This project automates the creation of PowerPoint presentations from research papers using Artificial Intelligence (AI). It extracts key sections, summarizes critical points, and presents them in a structured, visually appealing format. Additionally, it identifies and extracts 📊 **images and charts** from the research paper to include them in the slides. The tool also offers flexibility in presentation styles, allowing users to generate **formal** or **informal** presentations based on their needs. This is particularly beneficial for researchers, educators, and professionals who need to prepare presentations quickly and efficiently.
 
 ## Hackathon Contribution
