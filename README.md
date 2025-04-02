@@ -75,11 +75,11 @@ Review and customize the generated slides.
 
 Save or export the final presentation.
 
-Contributions
+## Contributions
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+## Contact
 This version highlights the dual capability of generating both formal and informal presentations.
