@@ -64,7 +64,7 @@ Run the application:
 streamlit run app.py
 ```
 
-Usage
+## Usage
 Upload a research paper in the supported format.
 
 Select the sections you want to include.
