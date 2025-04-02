@@ -24,7 +24,7 @@ This project originated as part of ** Mined Hackathon 2025** organized by **Nirm
   - `opencv` / `Pillow`: For image extraction and processing
 - **Machine Learning Models**: Pre-trained NLP models for text summarization and keyword extraction.
 
-## ⚙️ How It Works
+## How It Works
 1. **Input**: Upload a research paper in PDF format.
 2. **Processing**:
    - Extract text and images from the document.
