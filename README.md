@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/8c495dd9-5570-428d-afa9-7b819e32b666
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/research-paper-to-ppt.git
+git clone https://github.com/drashtiv03/research-paper-to-ppt.git
 ```
 Install the required dependencies:
  ```bash
